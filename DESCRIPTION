@@ -1,6 +1,6 @@
 Package: musclerefdata
 Title: Data for the R Package "bodycompref"
-Version: 0.0.1
+Version: 1.0.0
 Authors@R: 
   c(person(given = "J. Peter",
            family = "Marquardt",
